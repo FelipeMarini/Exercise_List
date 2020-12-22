@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\bin\Debug\netcoreapp3.1\Object_List.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Exercise_Lists\obj\Debug\netcoreapp3.1\Object_List.genruntimeconfig.cache
